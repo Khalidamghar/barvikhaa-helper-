@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdnVEv.jpg",
+      "title": "barvikhaa helper 1",
+        "text_Content": "Barvikhaa Helper is an innovative and efficient platform designed to help individuals and businesses navigate the complex and dynamic world of online marketing. With its user-friendly interface and comprehensive features, Barvikhaa Helper provides valuable insights and tools to help users optimize their online presence and increase their brand visibility.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdnEQa.jpg",
+      "title": "barvikhaa helper 2",
+        "text_Content": "In this article, we will explore the various features and benefits of Barvikhaa Helper, and how it can help users achieve their marketing goals.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdncp1.jpg",
+      "title": "barvikhaa helper 3",
+        "text_Content": "Barvikhaa Helper is an all-in-one marketing platform that provides a wide range of features and tools to help users improve their online presence. The platform includes various modules, including SEO, SEM, social media, email marketing, content marketing, and analytics.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdn1hg.jpg",
+      "title": "barvikhaa helper 4",
+        "text_Content": "The platform is designed to be user-friendly, with an intuitive interface that makes it easy for users to navigate and access the features they need. Whether you are a small business owner looking to improve your online visibility, or a marketing professional seeking to optimize your campaigns, Barvikhaa Helper provides the tools and insights you need to succeed.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdnjYN.jpg",
+      "title": "barvikhaa helper 5",
+        "text_Content": "Barvikhaa Helper provides a comprehensive suite of features and tools designed to help users achieve their marketing goals. Here are some of the key features of the platform ",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdnNpt.jpg",
+      "title": "barvikhaa helper 6",
+        "text_Content": "Search Engine Optimization (SEO) is critical to the success of any online marketing campaign. Barvikhaa Helper provides a range of tools to help users optimize their website for search engines. The platform includes features such as keyword research, on-page optimization, link building, and site analysis. Users can also track their keyword rankings and monitor their website's performance in search engine results pages (SERPs).",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdneTX.jpg",
+      "title": "barvikhaa helper 7",
+        "text_Content": "Search Engine Marketing (SEM) is another essential component of online marketing. Barvikhaa Helper provides a range of features to help users manage their SEM campaigns, including keyword research, ad creation, bidding strategies, and campaign analysis. Users can also track their ad performance and adjust their campaigns as needed to maximize their ROI.",
+        "text_Content_1": ""
 
 
 
